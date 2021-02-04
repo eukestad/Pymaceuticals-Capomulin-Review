@@ -1,4 +1,4 @@
-# Review of Pymaceuticals' Capomulin treatment regimen for squamous cell carcinoma (SCC)
+# Review of Capomulin Treatment Regimen for Pymaceuticals
 
 ## Summary
 This project reviews the Capomulin treatment regimen for squamous cell carcinoma (SCC) as compared to other treatment regimens for Pymaceuticals. 
@@ -49,7 +49,7 @@ The notebook generates:
 The analysis makes use of plots from both PyPlot and Matplotlib. 
 
 ## Status
-_in progress_
+_finished_
 
 ## Inspiration 
 This project was assigned as part of the UTSA Data BootCamp.
