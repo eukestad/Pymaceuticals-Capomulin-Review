@@ -1,4 +1,4 @@
-# Review of Pymaceuticals' Capomulin treatment regimen for squamous cell carcinoma (SCC)
+# Review of Capomulin treatment regimen for Pymaceuticals
 
 ## Summary
 This project reviews the Capomulin treatment regimen for squamous cell carcinoma (SCC) as compared to other treatment regimens for Pymaceuticals. 
