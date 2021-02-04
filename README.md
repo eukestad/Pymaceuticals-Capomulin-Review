@@ -3,7 +3,7 @@
 ## Summary
 This project reviews the Capomulin treatment regimen for squamous cell carcinoma (SCC) as compared to other treatment regimens for Pymaceuticals. 
 
-The followign are some observations and insights that are outlined in the report:
+The following are some observations and insights that are outlined in the report:
 
 * The study reviewed the progress of 249 mice with about an even split between male (50.2%) and female (49.8%) mice.
 
